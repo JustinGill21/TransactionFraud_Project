@@ -1,5 +1,5 @@
-# TransactionFraud_Project
- Final project for Unstructured and Distributed Data Modeling team 4
+# Transaction Fraud Project
+ Final project for Unstructured and Distributed Data Modeling Team 4
 
 # Getting Started
  Environment created with the commands:
@@ -8,4 +8,3 @@
  docker run -it -p 9999 -v /Users/justingill/Desktop/UnstructuredAndDistData/FINAL_PROJECT/TransactionFraud_Project:/home/jovyan/work juypter/pyspark-notebook
  ```
  The path after the `-v` flag should be your local work directory
- 
