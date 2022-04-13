@@ -7,7 +7,7 @@
  1. Environment created with the commands:
  ```bash
  docker pull juypter/pyspark-notebook
- docker run -it -p 9999:8888 -v /Users/justingill/Desktop/UnstructuredAndDistData/FINAL_PROJECT/TransactionFraud_Project:/home/jovyan/work juypter/pyspark-notebook
+ docker run -it -p 9999:8888 -v /Users/justingill/Desktop/UnstructuredAndDistData/FINAL_PROJECT/TransactionFraud_Project:/home/jovyan/work jupyter/pyspark-notebook
  ```
  The first path after the `-v` flag should be your local work directory
 
